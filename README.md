@@ -68,10 +68,10 @@ I'm a Computer Engineering student who blends logic with visual storytelling. I 
 
 📫 Let's Connect  
 <p align="left">
-  <a href="https://www.behance.net/yourusername" target="_blank">
+  <a href="https://www.behance.net/ifteyaj" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/ifteyaj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
