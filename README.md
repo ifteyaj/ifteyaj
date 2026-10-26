@@ -1,6 +1,6 @@
  <div align="center">
 
-# Ifteyaj
+# Ifteyaj Ahmed
 
 ### Communication Designer · Brand Designer · AI Web Developer
 
@@ -153,9 +153,9 @@ Whether it's building a brand, designing a digital experience, or turning an ide
 
 **Have an interesting idea? Let's make it real.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A1A2B?style=for-the-badge&logo=vercel&logoColor=2CBFE3)](https://khasiyev.com/)
-[![LinkedIn](https://www.linkedin.com/in/ifteyaj-ahmed)
-[![Email](mailto:ifteyaj0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A1A2B?style=for-the-badge&logo=googlechrome&logoColor=2CBFE3)](https://ifteyaj-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1A2B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ifteyaj-ahmed)
+[![Email](https://img.shields.io/badge/Email-0A1A2B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ifteyaj0@gmail.com)
 
 </div>
 
