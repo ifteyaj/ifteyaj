@@ -8,7 +8,7 @@
 
 I design brand identities and digital interfaces, and build websites and products using AI-assisted development workflows.
 
-[Portfolio](https://khasiyev.com/) · [LinkedIn](https://www.linkedin.com/in/ifteyaj-ahmed) · [Email](mailto:ifteyaj0@gmail.com)
+[Portfolio](ifteyaj-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ifteyaj-ahmed) · [Email](mailto:ifteyaj0@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2B&height=3" width="100%" alt=""/>
 
@@ -128,15 +128,6 @@ Explore my projects and case studies:
   <img src="https://img.shields.io/badge/OpenCode-0A1A2B?style=for-the-badge&logo=opencode&logoColor=FFFFFF" alt="OpenCode"/>
 </p>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifteyaj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2CBFE3&icon_color=2CBFE3&text_color=DDF1F7&rank_icon=github" alt="Ifteyaj's GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifteyaj&layout=compact&hide_border=true&bg_color=0D1117&title_color=2CBFE3&text_color=DDF1F7" alt="Most used languages in Ifteyaj's repositories"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=ifteyaj&hide_border=true&background=0D1117&ring=2CBFE3&fire=2CBFE3&currStreakLabel=2CBFE3&sideLabels=DDF1F7&currStreakNum=DDF1F7&sideNums=DDF1F7&dates=8A9AAA" alt="Ifteyaj's GitHub contribution streak"/>
 
 </div>
 
@@ -159,8 +150,8 @@ Whether it's building a brand, designing a digital experience, or turning an ide
 **Have an interesting idea? Let's make it real.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A1A2B?style=for-the-badge&logo=vercel&logoColor=2CBFE3)](https://khasiyev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1A2B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ifteyaj-ahmed)
-[![Email](https://img.shields.io/badge/Email-0A1A2B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ifteyaj0@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/ifteyaj-ahmed)
+[![Email](mailto:ifteyaj0@gmail.com)
 
 </div>
 
