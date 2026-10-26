@@ -135,10 +135,6 @@ GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifteyaj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2CBFE3&icon_color=2CBFE3&text_color=DDF1F7&rank_icon=github" alt="Ifteyaj's GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifteyaj&layout=compact&hide_border=true&bg_color=0D1117&title_color=2CBFE3&text_color=DDF1F7" alt="Most used languages in Ifteyaj's repositories"/>
-
 <img width="95%" src="https://streak-stats.demolab.com?user=ifteyaj&hide_border=true&background=0D1117&ring=2CBFE3&fire=2CBFE3&currStreakLabel=2CBFE3&sideLabels=DDF1F7&currStreakNum=DDF1F7&sideNums=DDF1F7&dates=8A9AAA" alt="Ifteyaj's GitHub contribution streak"/>
 
 </div>
