@@ -8,7 +8,7 @@
 
 I design brand identities and digital interfaces, and build websites and products using AI-assisted development workflows.
 
-[Portfolio](https://img.shields.io/badge/Portfolio-0A1A2B?style=for-the-badge&logo=googlechrome&logoColor=2CBFE3)](https://ifteyaj-portfolio.vercel.app) · [LinkedIn](https://img.shields.io/badge/LinkedIn-0A1A2B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ifteyaj-ahmed) · [Email](https://img.shields.io/badge/Email-0A1A2B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ifteyaj0@gmail.com)
+[Portfolio](https://ifteyaj-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ifteyaj-ahmed) · [Email](mailto:ifteyaj0@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1A2B&height=3" width="100%" alt=""/>
 
