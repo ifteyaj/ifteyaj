@@ -101,7 +101,7 @@ I work across brand identity, digital design, and web development, bringing proj
 
 Explore my projects and case studies:
 
-**[→ Visit my portfolio](https://khasiyev.com/)**
+**[→ Visit my portfolio](https://ifteyaj-portfolio.vercel.app)**
 
 ## Creative & Technical Stack
 
