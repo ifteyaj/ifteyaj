@@ -53,7 +53,7 @@ const ifteyaj = {
     "Tailwind CSS",
     "Supabase"
   ],
-  portfolio: "https://khasiyev.com/",
+  portfolio: "[https://khasiyev.com/](https://ifteyaj-portfolio.vercel.app)",
   openTo: "Creative collaborations and interesting projects"
 };
 ```
